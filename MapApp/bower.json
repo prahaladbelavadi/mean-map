@@ -1,0 +1,24 @@
+{
+  "name": "MeanMapsApp",
+  "description": "built off the tutorial @ https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i",
+  "main": "server.js",
+  "authors": [
+    "Prahalad Belavadi"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.4",
+    "angularjs-geolocation": "^0.1.1",
+    "bootstrap": "^3.3.7",
+    "holderjs": "^2.9.4",
+    "modernizr": "^3.5.0"
+  }
+}
